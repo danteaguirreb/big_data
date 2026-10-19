@@ -1,0 +1,4 @@
+pyspark==3.5.1
+nbformat>=5.9
+psutil>=5.9
+pytest>=8.0

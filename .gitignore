@@ -1,0 +1,15 @@
+# Spark/Delta generated data and local runtime files
+data/
+outputs/
+work/
+*.parquet
+*.crc
+.sparkStaging/
+spark-warehouse/
+.spark-warehouse/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
