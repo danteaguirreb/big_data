@@ -4,10 +4,10 @@ Portafolio académico curado de la asignatura. Reúne un laboratorio práctico d
 
 ## Contenido
 
-- [`laboratorios/clase-03/`](laboratorios/clase-03/): notebook del laboratorio de conversión de Parquet a Delta Lake. Se conserva una sola copia; la variante local con sufijo de autor era idéntica byte a byte.
+- [`laboratorios/clase-03/`](laboratorios/clase-03/): notebook del laboratorio de conversión de Parquet a Delta Lake.
 - [`proyecto-integrador/`](proyecto-integrador/): entregables de la cuarta iteración de la Fase 3 y paquete PySpark base identificado como Fase 2. El proyecto fue realizado en grupo; los integrantes están reconocidos en su README y en el informe.
 
-El proyecto usa datos sintéticos para demostrar una arquitectura lakehouse Bronze/Silver/Gold, procesamiento con PySpark, evidencia, gobierno, linaje y FinOps. No se publican datos generados en volumen, materiales de clase, ZIP redundantes ni versiones intermedias.
+El proyecto usa datos sintéticos para demostrar una arquitectura lakehouse Bronze/Silver/Gold, procesamiento con PySpark, gobierno, linaje y FinOps. No se publican datos generados en volumen, materiales docentes, ZIP redundantes ni versiones intermedias.
 
 ## Reproducibilidad
 
